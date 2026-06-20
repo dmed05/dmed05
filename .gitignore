@@ -1,0 +1,10 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+private/
+*.log
+.DS_Store
