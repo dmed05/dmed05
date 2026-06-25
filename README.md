@@ -17,6 +17,15 @@ publication guardrails, and automated secret scanning.
 
 **Focus:** agent design · prompt architecture · reusable workflows · privacy
 
+### [ICM Workspace Builder](https://github.com/dmed05/icm-concept)
+
+A reusable builder for creating independent project workspaces that follow the
+Interpretable Context Methodology. It uses explicit routing, stage-level context
+manifests, deterministic scaffolding, validation handoff, and sanitized public
+artifacts.
+
+**Focus:** context engineering · workflow scaffolding · validation · auditability
+
 ### [AI Inspection Report Demo](https://github.com/dmed05/ai-inspection-report-demo)
 
 A secure synthetic inspection-report application with fixture-only public
