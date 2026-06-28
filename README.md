@@ -50,6 +50,22 @@ append-only audit trail control each handoff from intake through payment follow-
 
 **Focus:** Node.js · state machines · operations workflows · privacy-by-design
 
+## All public projects
+
+| Project | Purpose | Primary technology |
+| --- | --- | --- |
+| [AI Workflow Builder](https://github.com/dmed05/ai-workflow-builder) | Framework for creating reviewable, privacy-safe agent workflows | HTML / Shell |
+| [ICM Workspace Builder](https://github.com/dmed05/icm-concept) | Reusable workspace scaffolding with explicit context and validation stages | Shell |
+| [AI Inspection Report Demo](https://github.com/dmed05/ai-inspection-report-demo) | Synthetic inspection application with a security-focused reference API | Node.js |
+| [Local-First Agent Workflow](https://github.com/dmed05/local-first-agent-workflow) | Durable staged processing with validation and mandatory human review | Python |
+| [Service Sales Operations Workflow](https://github.com/dmed05/service-sales-operations-workflow) | Synthetic state-machine demo for inspection-to-payment service operations | Node.js |
+| [Sales Commission Core](https://github.com/dmed05/sales-commission-core) | Local, auditable commission-review workflow using synthetic CSV fixtures | Python |
+| [AI Project Template](https://github.com/dmed05/ai-project-template) | Reusable portfolio template with privacy and publication enforcement | Shell |
+
+The repositories above are public-safe implementations or synthetic
+demonstrations. Private operational work, customer records, credentials, and
+production exports are intentionally excluded.
+
 ## Engineering approach
 
 - Start with a narrow problem and explicit definition of done.
