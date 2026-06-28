@@ -33,6 +33,14 @@ an append-only event trail, and a mandatory human approval gate.
 
 **Focus:** Python · workflow orchestration · human-in-the-loop systems · CLI
 
+### [Service Sales Operations Workflow](https://github.com/dmed05/service-sales-operations-workflow)
+
+A fixture-only Node.js application that models inspection-led service sales as
+an explicit state machine. Stage prerequisites, named human approval, and an
+append-only audit trail control each handoff from intake through payment follow-up.
+
+**Focus:** Node.js · state machines · operations workflows · privacy-by-design
+
 ## Engineering approach
 
 - Start with a narrow problem and explicit definition of done.
